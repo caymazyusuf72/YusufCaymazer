@@ -24,19 +24,20 @@ I'm a full-stack developer from Türkiye who loves turning ideas into code. Whet
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,c"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,java,c" />
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,vite"/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,mongodb" />
 </p>
 
 ### AI & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=python,openai,tensorflow,vscode,git,github,linux"/>
+  <img src="https://skillicons.dev/icons?i=python,openai,tensorflow,vscode,git,github,linux" />
 </p>
+
 
 ---
 
