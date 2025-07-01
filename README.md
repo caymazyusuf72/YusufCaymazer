@@ -53,12 +53,12 @@ I'm a full-stack developer from Türkiye who loves turning ideas into code. Whet
 > A 2D text-based game framework that supports branching stories, made with vanilla JS.
 
 ---
-
 ## 🔥 My GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caymazyusuf72&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caymazyusuf72&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caymazyusuf72&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caymazyusuf72&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" height="180"/>
+</p>
 
 ---
 
