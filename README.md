@@ -55,9 +55,8 @@ I'm a full-stack developer from Türkiye who loves turning ideas into code. Whet
 
 ## 🔥 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caymazyusuf72&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=caymazyusuf72&theme=tokyonight" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caymazyusuf72&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caymazyusuf72&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caymazyusuf72&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ---
