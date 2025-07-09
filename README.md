@@ -12,7 +12,7 @@ I'm a full-stack developer from Türkiye who loves turning ideas into code. Whet
 
 - 🚀 Currently working on:
   - `BlackHackerGPT` – a cyber-themed AI project
-  - `Resulullah Chat` – decision-based chatbot architecture
+  - `umtal Chat` – decision-based chatbot architecture
   - `CaymazStudyo` – a hub for creative tech experiments
 
 - 🌍 Open to collaborations, hackathons, and building meaningful projects with other creatives.
@@ -46,7 +46,7 @@ I'm a full-stack developer from Türkiye who loves turning ideas into code. Whet
 ### 🔹 BlackHackerGPT
 > AI-powered prompt agent with cyberpunk vibes. It blends philosophy, security, and language.
 
-### 🔹 Resulullah Chat
+### 🔹 umtal Chat
 > A decision-based dialogue engine for meaningful story interaction using JSON and PHP backend.
 
 ### 🔹 OyunProjesi (Web Game Engine)
