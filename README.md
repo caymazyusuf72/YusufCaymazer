@@ -13,7 +13,6 @@ I'm a full-stack developer from Türkiye who loves turning ideas into code. Whet
 - 🚀 Currently working on:
   - `BlackHackerGPT` – a cyber-themed AI project
   - `umtal Chat` – decision-based chatbot architecture
-  - `CaymazStudyo` – a hub for creative tech experiments
 
 - 🌍 Open to collaborations, hackathons, and building meaningful projects with other creatives.
 - 🎯 Long-term goal: Create products that make a global impact and contribute to Türkiye's rise in tech leadership.
